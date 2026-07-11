@@ -7,5 +7,15 @@ You want a perfect Alan's Ava themepack?
 Get it here! Free and easy!
 (sorry but icons must change it manually)
 
+# TUTORIAL
+1. Go to install the two files from releases. (exp: Alan.becker.themepack.Ava.Edition.V1.0.deskthemepack and Icons.zip)
+2. Click on that .deskthemepack file and you're done!
+3. For icons, Click Ctrl+I and go to Personalisation > Themes > Desktop Icon Settings
+4. A window will pop out and you select the icons you want to change. (All shown icons except Network)
+5. Click 'Change icon...' and 'Click 'Browse'
+6. Go to find the icons file that you downloaded (Extract the zip folder first!)
+7. Find the name of the icon that you wanted to change, click it, and done!
+8. Repeat steps 5-7 with other icons. (that shown on the window)
+
 # CONSIDERING KNOWING ME?
 Want to know me? Here's my YT channel: https://www.youtube.com/@midgo-jie
